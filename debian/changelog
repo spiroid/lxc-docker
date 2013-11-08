@@ -1,0 +1,5 @@
+lxc-docker (0.6.4-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Jonathan Dray <jonathan.dray@gmail.com>  Sun, 3 Nov 2013 14:39:03 +0100
